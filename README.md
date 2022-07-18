@@ -6,7 +6,7 @@ NAME
 SYNOPSIS
 ========
 
-**loggedcron.bash** \[worker\]
+**loggedcron.bash** \[worker\] \[arguments\]
 
 DESCRIPTION
 ===========
