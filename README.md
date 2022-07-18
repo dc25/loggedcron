@@ -11,7 +11,7 @@ SYNOPSIS
 DESCRIPTION
 ===========
 
-Runs the worker and saves the output in file : ~/cron_logs/worker/\<_date_\> .  Also note the date/time of execution and the name of the worker script.
+Runs the worker and saves the output in file : ~/cron_logs/worker/\<_date_\> .  Also records the date/time of execution and the name of the worker script.
 
 NOTES
 =====
